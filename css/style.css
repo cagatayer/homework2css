@@ -1,0 +1,42 @@
+
+.ortala {
+    text-align: center;
+}
+
+.text-red{
+    color: red;
+}
+
+.text-purple{
+    color: purple;
+}
+
+.liste-ortala{
+    list-style-position: inside;
+}
+
+.h1{
+    color: #557153;
+}
+
+h2{
+    color: #7D8F69;
+}
+
+h3{
+    color: #A9AF7E;
+}
+
+h4{
+    color: #E6E5A3;
+}
+
+
+.footer{
+    text-align: right;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    font-style: italic;
+    left: 0;
+}
